@@ -1,0 +1,1 @@
+__all__ = ['hw_6_task_2_and_3_chess_queens']
