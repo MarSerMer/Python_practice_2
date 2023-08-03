@@ -1,0 +1,122 @@
+{
+  "files_for_task_5 from .": {
+    "type=": "directory",
+    "parent=": ".",
+    "size": 4096
+  },
+  "file_for_s7_task_3 from .": {
+    "type=": "file",
+    "parent=": "no parent",
+    "size": 226
+  },
+  "file_for_s8_task_1.json from .": {
+    "type=": "file",
+    "parent=": "no parent",
+    "size": 183
+  },
+  "file_for_s8_task_1.pickle from .": {
+    "type=": "file",
+    "parent=": "no parent",
+    "size": 142
+  },
+  "file_for_s8_task_2.json from .": {
+    "type=": "file",
+    "parent=": "no parent",
+    "size": 197
+  },
+  "file_for_s8_task_2.pickle from .": {
+    "type=": "file",
+    "parent=": "no parent",
+    "size": 122
+  },
+  "file_for_s8_task_3.csv from .": {
+    "type=": "file",
+    "parent=": "no parent",
+    "size": 79
+  },
+  "file_for_s8_task_4.json from .": {
+    "type=": "file",
+    "parent=": "no parent",
+    "size": 607
+  },
+  "file_for_s8_task_4.pickle from .": {
+    "type=": "file",
+    "parent=": "no parent",
+    "size": 272
+  },
+  "file_for_s8_task_6.csv from .": {
+    "type=": "file",
+    "parent=": "no parent",
+    "size": 270
+  },
+  "homework_8.csv from .": {
+    "type=": "file",
+    "parent=": "no parent",
+    "size": 1501
+  },
+  "homework_8.py from .": {
+    "type=": "file",
+    "parent=": "no parent",
+    "size": 2742
+  },
+  "sem_8_task_1_files_to_JSON.py from .": {
+    "type=": "file",
+    "parent=": "no parent",
+    "size": 1164
+  },
+  "sem_8_task_2_users_access_rights.py from .": {
+    "type=": "file",
+    "parent=": "no parent",
+    "size": 2893
+  },
+  "sem_8_task_3_json2csv.py from .": {
+    "type=": "file",
+    "parent=": "no parent",
+    "size": 908
+  },
+  "sem_8_task_4_csv2json.py from .": {
+    "type=": "file",
+    "parent=": "no parent",
+    "size": 1638
+  },
+  "sem_8_task_5_json2pickle.py from .": {
+    "type=": "file",
+    "parent=": "no parent",
+    "size": 696
+  },
+  "sem_8_task_6_pickle2csv.py from .": {
+    "type=": "file",
+    "parent=": "no parent",
+    "size": 1093
+  },
+  "sem_8_task_7_csv2pickle_str.py from .": {
+    "type=": "file",
+    "parent=": "no parent",
+    "size": 726
+  },
+  "file_for_s8_task_1.json from .\\files_for_task_5": {
+    "type=": "file",
+    "parent=": "no parent",
+    "size": 183
+  },
+  "file_for_s8_task_1.pickle from .\\files_for_task_5": {
+    "type=": "file",
+    "parent=": "no parent",
+    "size": 142
+  },
+  "file_for_s8_task_2.json from .\\files_for_task_5": {
+    "type=": "file",
+    "parent=": "no parent",
+    "size": 197
+  },
+  "file_for_s8_task_2.pickle from .\\files_for_task_5": {
+    "type=": "file",
+    "parent=": "no parent",
+    "size": 122
+  },
+  ". has no parent": {
+    "type=": "directory",
+    "parent=": "no parent",
+    "size": 8192
+  }
+}

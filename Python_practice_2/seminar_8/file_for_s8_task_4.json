@@ -1,0 +1,32 @@
+[
+  {
+    "access_level": 1,
+    "user_id": "0000000001",
+    "name": "Ccccc",
+    "hash": -6298272849017469663
+  },
+  {
+    "access_level": 2,
+    "user_id": "0000000002",
+    "name": "Bbbbb",
+    "hash": -4280300288835078694
+  },
+  {
+    "access_level": 2,
+    "user_id": "0000000022",
+    "name": "Rroar",
+    "hash": 8307238019788638439
+  },
+  {
+    "access_level": 5,
+    "user_id": "0000000017",
+    "name": "Ttimm",
+    "hash": -8778681434725681079
+  },
+  {
+    "access_level": 7,
+    "user_id": "0000000013",
+    "name": "Fffff",
+    "hash": -4316154627876966350
+  }
+]
