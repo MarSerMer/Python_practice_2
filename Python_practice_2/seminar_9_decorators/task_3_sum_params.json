@@ -1,0 +1,52 @@
+[
+  {
+    "positional parameters: ": [
+      7,
+      3,
+      2
+    ],
+    "h": 3,
+    "f": 5,
+    "result: ": 20
+  },
+  {
+    "positional parameters: ": [
+      7,
+      3,
+      2
+    ],
+    "h": 3,
+    "f": 5,
+    "result: ": 20
+  },
+  {
+    "positional parameters: ": [
+      8,
+      2,
+      1
+    ],
+    "h": 4,
+    "f": 5,
+    "result: ": 20
+  },
+  {
+    "positional parameters: ": [
+      7,
+      3,
+      2
+    ],
+    "h": 3,
+    "f": 5,
+    "result: ": 20
+  },
+  {
+    "positional parameters: ": [
+      8,
+      2,
+      1
+    ],
+    "h": 4,
+    "f": 5,
+    "result: ": 20
+  }
+]
