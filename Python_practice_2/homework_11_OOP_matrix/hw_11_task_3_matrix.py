@@ -3,9 +3,6 @@
 # сложения,
 # *умножения матриц
 
-from numpy import array
-
-
 class MyMatrix():
     """
     Class to work with matrices.
