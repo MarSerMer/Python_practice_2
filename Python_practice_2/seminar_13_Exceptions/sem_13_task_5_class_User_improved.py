@@ -13,7 +13,7 @@
 
 import json
 from typing import Set
-from sem_13_task_3_6_class_exc import LevelException, AccessException
+from seminar_13_Exceptions.sem_13_task_3_6_class_exc import LevelException, AccessException
 
 FILE_OF_USERS = 'users.json'
 
