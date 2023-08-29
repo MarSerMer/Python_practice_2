@@ -1,0 +1,5 @@
+INFO:__main__:{'args': ('00.00.0000',), 'result"': False}
+INFO:__main__:{'args': ('12.12.2022',), 'result"': True}
+ERROR:__main__:Внимание! Какая-то ерунда с введенной датой! Я ТАКОЕ сплитануть не могу!
+not enough values to unpack (expected 3, got 1)
+INFO:__main__:{'args': ('1215212',), 'result"': None}

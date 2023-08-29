@@ -1,0 +1,2 @@
+ERROR:__main__:too many values to unpack (expected 3): 
+1 <built-in method weekday of datetime.datetime object at 0x000002071170B060> 8 is impossible to be split on three parts!
